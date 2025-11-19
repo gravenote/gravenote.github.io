@@ -1,5 +1,21 @@
 [book]
-authors = []
-language = "en"
-src = "src"
 title = "ThesmosHQ-Book"
+description = "By MTLG Group inspired with mdbook."
+authors = ["Dr. Thesmos Prime", "Thesmos Lukas", "Mathrew Tyson", "Lucathar"]
+src = "src"
+language = "en"
+text-direction = "ltr"
+
+[rust]
+edition = "2024"
+
+[output.html]
+smart-punctuation = true
+site-url = "/thesmoshq.github.io/"
+git-repository-url = "https://github.com/thesmoshq/thesmoshq.github.io"
+edit-url-template = "
+
+[build]
+build-dir = "book"
+create-missing = true
+
