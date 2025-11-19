@@ -1,6 +1,5 @@
 # Summary
 
-[banner](src/images/banner.png)
 [Introduction](README.md)
 
 # MTLG Group
