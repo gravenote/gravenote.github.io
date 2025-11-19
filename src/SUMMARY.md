@@ -1,13 +1,9 @@
 # Summary
 
-![banner](src/images/banner.png)
+[banner](src/images/banner.png)
+[Introduction](README.md)
 
 # MTLG Group
-
-<br/>
-
-<details>
-<summary>CLICK To see <strong><i>ThesmosHQ-Book by MTLG Group</i></strong></summary>
 
 1. [M for Marvelous](notebook/m.md)
    - [Home](notebook/M/README.md)
@@ -28,8 +24,6 @@
    - [Home](notebook/G/README.md)
    - [Owner](notebook/G/authors.md)
    - [Projects](notebook/G/SUMMARY.md)
-
-</details>
 
 # Copyright
 
